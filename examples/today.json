@@ -1,0 +1,17 @@
+{
+  "fbs": 95,
+  "delta_7pm": 10,
+  "last_meal_gap_hours": 2.5,
+  "carb_load_planned": 40,
+  "gi_level": "medium",
+  "fiber_grams": 7,
+  "protein_grams": 60,
+  "exercise_type": "mixed",
+  "strength_volume_kg": 6000,
+  "cardio_minutes": 20,
+  "taking_dpp4": true,
+  "taking_metformin": false,
+  "sleep_hours": 7,
+  "stress_index": 1,
+  "is_epoc_day": false
+}
